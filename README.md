@@ -20,3 +20,7 @@ This project predicts whether a loan will be approved using machine learning tec
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
+
+## 📷 Application Preview
+
+![App Screenshot](screenshot.png)
