@@ -14,3 +14,9 @@ This project predicts whether a loan will be approved using machine learning tec
 - Pandas
 - NumPy
 - Scikit-learn
+
+## ▶️ Run the Project
+
+```bash
+pip install -r requirements.txt
+streamlit run app/app.py
